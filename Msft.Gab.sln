@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Msft.Gab.Api", "Msft.Gab.Api\Msft.Gab.Api.csproj", "{CE2F6CB2-D35A-4B4B-A3CB-7D2924EE3E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Msft.Gab.Api", "Msft.Gab.Api\Msft.Gab.Api.csproj", "{CE2F6CB2-D35A-4B4B-A3CB-7D2924EE3E93}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{E2EFFBD1-FF6C-4DD5-B4AC-964BB414B53F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Msft.Gab.Console", "Msft.Gab.Console\Msft.Gab.Console.csproj", "{01029101-3DC9-4988-961B-705AA3D38B98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EC23D8D4-3264-4B32-844B-D5F3D0BFA00B}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
